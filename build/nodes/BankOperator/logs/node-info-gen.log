@@ -1,0 +1,14 @@
+
+   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         Cats spend two thirds of their lives sleeping
+/ /___  /_/ / /  / /_/ / /_/ /          and the other third making viral videos.
+\____/     /_/   \__,_/\__,_/
+
+--- Corda Open Source 4.1 (c11f6c1) -------------------------------------------------------------
+
+
+Logs can be found in                    : /Users/yudiz/Documents/contract_update/cordapp-template-kotlin/build/nodes/BankOperator/logs
+Your computer took over a second to resolve localhost due an incorrect configuration. Corda will work but start very slowly until this is fixed. 
+Please see https://docs.corda.net/troubleshooting.html#slow-localhost-resolution for information on how to fix this. 
+It will only take a few seconds for you to resolve.
