@@ -94,12 +94,4 @@ the other nodes on the network:
   
     Bravo magic Bank Corda has also got notification and the amount/State is tranfer from Yudiz to Bank to Employee1
     without any notice of Bank or any click event by Bank. 
-     
-  
-    
-         
-    
-    
-    
-
-
+   
