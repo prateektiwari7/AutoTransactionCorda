@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce5c67e6-67b4-4d92-8c9d-dadaa41ec9c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/cordapp-template-kotlin-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/cordapp-template-kotlin-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-0EE1B30CDDA7EF06C0C12628DB91062446143D6F492BB9E767E979A95DDD286B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-AE91FF154CF2B38C2BB94E2D6734F6CE70B30CCD11B9194C9DB565B79F200E64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/artemis/bindings/activemq-bindings-1.bindings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/artemis/journal/activemq-data-1.amq" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/artemis/journal/activemq-data-1.amq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/artemis/journal/server.lock" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/artemis/journal/server.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/brokers/rpc/bindings/activemq-bindings-1.bindings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/brokers/rpc/journal/server.lock" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/brokers/rpc/journal/server.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/certificates/nodekeystore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/certificates/nodekeystore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/certificates/sslkeystore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/certificates/sslkeystore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/certificates/truststore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/certificates/truststore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/cordapps/contracts-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/cordapps/contracts-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/cordapps/workflows-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/cordapps/workflows-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/logs/node-Yudiz-Prateek-Tiwari-2.local.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/logs/node-Yudiz-Prateek-Tiwari-2.local.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/logs/node-info-gen.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/logs/node-info-gen.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/network-parameters" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/network-parameters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/persistence.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/persistence.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/BankOperator/persistence.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/BankOperator/persistence.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/additional-node-infos/nodeInfo-0EE1B30CDDA7EF06C0C12628DB91062446143D6F492BB9E767E979A95DDD286B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/additional-node-infos/nodeInfo-AE91FF154CF2B38C2BB94E2D6734F6CE70B30CCD11B9194C9DB565B79F200E64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/corda.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/drivers/jolokia-jvm-1.6.0-agent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/logs/diagnostic-Yudiz-Prateek-Tiwari-2.local.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/logs/node-Yudiz-Prateek-Tiwari-2.local.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/logs/node-info-gen.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/nodeInfo-AE91FF154CF2B38C2BB94E2D6734F6CE70B30CCD11B9194C9DB565B79F200E64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1/persistence.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client1_node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/additional-node-infos/nodeInfo-0EE1B30CDDA7EF06C0C12628DB91062446143D6F492BB9E767E979A95DDD286B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/additional-node-infos/nodeInfo-AE91FF154CF2B38C2BB94E2D6734F6CE70B30CCD11B9194C9DB565B79F200E64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/corda.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/drivers/jolokia-jvm-1.6.0-agent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/logs/diagnostic-Yudiz-Prateek-Tiwari-2.local.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/logs/node-Yudiz-Prateek-Tiwari-2.local.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/logs/node-info-gen.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/nodeInfo-0EE1B30CDDA7EF06C0C12628DB91062446143D6F492BB9E767E979A95DDD286B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2/persistence.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Client2_node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-0EE1B30CDDA7EF06C0C12628DB91062446143D6F492BB9E767E979A95DDD286B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-AE91FF154CF2B38C2BB94E2D6734F6CE70B30CCD11B9194C9DB565B79F200E64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/artemis/bindings/activemq-bindings-1.bindings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/artemis/journal/server.lock" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/artemis/journal/server.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/brokers/rpc/bindings/activemq-bindings-1.bindings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/brokers/rpc/journal/server.lock" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/brokers/rpc/journal/server.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/certificates/nodekeystore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/certificates/nodekeystore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/certificates/sslkeystore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/certificates/sslkeystore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/certificates/truststore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/certificates/truststore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/cordapps/contracts-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/cordapps/contracts-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/cordapps/workflows-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/cordapps/workflows-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/logs/node-Yudiz-Prateek-Tiwari-2.local.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/logs/node-Yudiz-Prateek-Tiwari-2.local.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/logs/node-info-gen.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/logs/node-info-gen.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/network-parameters" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/network-parameters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/persistence.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/persistence.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Notary/persistence.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Notary/persistence.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-0EE1B30CDDA7EF06C0C12628DB91062446143D6F492BB9E767E979A95DDD286B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-1E9841C2E466D5D3C6B39865DD594D15411001D83C9C4FA3ED2721540BA80BC4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-777DA369F066FE34BEDE3E6334A1006A4026A02DD76AFA798204BD015C9965DE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-AE91FF154CF2B38C2BB94E2D6734F6CE70B30CCD11B9194C9DB565B79F200E64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/additional-node-infos/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/artemis/bindings/activemq-bindings-1.bindings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/artemis/journal/activemq-data-1.amq" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/artemis/journal/activemq-data-1.amq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/artemis/journal/server.lock" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/artemis/journal/server.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/brokers/rpc/bindings/activemq-bindings-1.bindings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/brokers/rpc/journal/server.lock" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/brokers/rpc/journal/server.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/certificates/nodekeystore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/certificates/nodekeystore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/certificates/sslkeystore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/certificates/sslkeystore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/certificates/truststore.jks" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/certificates/truststore.jks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/cordapps/contracts-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/cordapps/contracts-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/cordapps/workflows-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/cordapps/workflows-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/logs/node-Yudiz-Prateek-Tiwari-2.local.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/logs/node-Yudiz-Prateek-Tiwari-2.local.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/logs/node-info-gen.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/logs/node-info-gen.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/network-parameters" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/network-parameters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/nodeInfo-ECA198F8A71EF0CCD61938F8F3CA6B7E536188851D2AEDFCC7C31B8748F41FF5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/persistence.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/persistence.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/nodes/Yudiz/persistence.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/nodes/Yudiz/persistence.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/libs/contracts-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/build/libs/contracts-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/libs/workflows-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/build/libs/workflows-0.1.jar" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/clients/.gradle/" />
+    <ignored path="$PROJECT_DIR$/clients/build/" />
+    <ignored path="$PROJECT_DIR$/clients/out/" />
+    <ignored path="$PROJECT_DIR$/contracts/.gradle/" />
+    <ignored path="$PROJECT_DIR$/contracts/build/" />
+    <ignored path="$PROJECT_DIR$/contracts/out/" />
+    <ignored path="$PROJECT_DIR$/workflows/.gradle/" />
+    <ignored path="$PROJECT_DIR$/workflows/build/" />
+    <ignored path="$PROJECT_DIR$/workflows/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="260">
+                <caret line="95" column="59" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="223" />
+    <option name="y" value="23" />
+    <option name="width" value="1512" />
+    <option name="height" value="945" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cordapp-template-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cordapp-template-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cordapp-template-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cordapp-template-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cordapp-template-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cordapp-template-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="nodes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cordapp-template-kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cordapp-template-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="nodes" type="462c0819:PsiDirectoryNode" />
+              <item name="Employee1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573117774091" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="cordapp-template-kotlin [deployNodes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="deployNodes" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.cordapp-template-kotlin [deployNodes]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce5c67e6-67b4-4d92-8c9d-dadaa41ec9c4" name="Default Changelist" comment="" />
+      <created>1573104686774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573104686774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="223" y="23" width="1512" height="945" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Learn" order="5" weight="0.32993197" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.24965987" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.09847597" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30128956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="260">
+            <caret line="95" column="59" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
